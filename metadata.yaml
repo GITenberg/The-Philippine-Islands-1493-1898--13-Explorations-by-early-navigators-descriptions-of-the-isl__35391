@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '2296'
     url: http://www.gutenberg.org/2009/agents/2296
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35391#The-Philippine-Islands-1493-1898--13-Explorations-by-early-navigators-descriptions-of-the-isl_
 gutenberg_issued: '2011-02-24'
 gutenberg_type: Text
 identifiers:
